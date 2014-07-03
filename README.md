@@ -1,5 +1,7 @@
 # Gus-cheap
 
+soooo sheeep
+
 This README outlines the details of collaborating on this Ember application.
 
 ## Installation
