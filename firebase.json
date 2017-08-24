@@ -7,5 +7,12 @@
         "destination": "/index.html"
       }
     ]
-  }
+  },
+  "headers": [{
+    "source": "/css/images/*.@(jpg|jpeg|gif|png)",
+    "headers": [{
+      "key": "Cache-Control",
+      "value": "max-age=7200"
+    }]
+  }]
 }
