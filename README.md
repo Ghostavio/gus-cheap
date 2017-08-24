@@ -1,27 +1,15 @@
 # Gus-cheap
 
-soooo sheeep
+BECAUSE IT'S SO SHEEEEP!
 
-This README outlines the details of collaborating on this Ember application.
+This is just a static website and it was made in ten minutes. It's hosted at [http://gus.cheap/](http://gus.cheap/).
 
-## Installation
+Enjoy :)
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+## Deploying to Firebase
 
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://iamstef.net/ember-cli/](http://iamstef.net/ember-cli/).
+```
+$ npm install -g firebase-tools
+$ firebase login
+$ firebase deploy
+```
